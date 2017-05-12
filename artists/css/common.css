@@ -15,7 +15,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
@@ -104,19 +104,19 @@ a:hover {
 main {
   display: block;
   background-color: #fff;
-  padding: 20px 0;
+  /* padding: 20px 0; */
 }
 
 .container {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  
+  /* padding: 0 20px; */
 }
 
 /* primary header */
 .header__primary {
-  padding: 10px 10px 10px 30px;
+  /* padding: 10px 10px 10px 30px; */
 }
 
 .header__primary--logo {
@@ -142,7 +142,7 @@ main {
   vertical-align: middle;
   position: relative;
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   width: 20px;
   height: 20px;
   background: url("../img/common/icons-nav.png");
@@ -171,7 +171,7 @@ main {
   right: 0;
   z-index: 20px;
   content: attr(data-title);
-  padding: 2px 5px;
+  /* padding: 2px 5px; */
   background-color: #28aadc;
   color: #fff;
   font-size: 10px;
@@ -187,7 +187,7 @@ main {
   top: 80px;
   right: 10px;
   z-index: 20;
-  padding: 10px;
+  /* padding: 10px; */
   background: rgba(255, 255, 255, 0.95);
   font-size: 12px;
   line-height: 1.2;
