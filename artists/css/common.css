@@ -33,6 +33,8 @@ body {
 p {
   color: green;
   font-family: cursive;
+  font-size: 100%;
+  text-align: center;
 }
 
 ol, ul {
