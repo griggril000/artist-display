@@ -102,17 +102,17 @@ a:hover {
 }
 
 main {
-  display: block;
+  /* display: block; */
   background-color: #fff;
   /* padding: 20px 0; */
 }
 
-/* .container {
+  .container {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-   padding: 0 20px;
-} */
+  /* padding: 0 20px; */
+}
 
 /* primary header */
 .header__primary {
