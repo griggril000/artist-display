@@ -103,7 +103,7 @@ a:hover {
 
 main {
   /* display: block; */
-  background-color: #fff;
+  /* background-color: #fff; */
   /* padding: 20px 0; */
 }
 
@@ -173,7 +173,7 @@ main {
   content: attr(data-title);
   /* padding: 2px 5px; */
   background-color: #28aadc;
-  color: #fff;
+  /* color: #fff; */
   font-size: 10px;
   white-space: nowrap;
   border-radius: 3px;
